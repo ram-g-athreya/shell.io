@@ -1,0 +1,135 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\000033}}
+.navbar {
+  margin-bottom: 5px !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\000037}}
+.w2ui-panel-content {
+  background-color: white !important;
+  border: 1px solid #dfdfdf;
+  padding: 5px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000313}}
+.terminal {
+  height: 100%;
+  width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000318}}
+.editor {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000324}}
+.editor-tabs {
+  width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000328}}
+.tabs, .tabs:after {
+  background: white !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000332}}
+.tab, .tab:before, .tab:after {
+  background: #ecf0f1 !important;
+  color: #000000;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000336}}
+.tab span {
+  font-family: calibri !important;
+  cursor: default;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000341}}
+.tab.active, .tab.active:before, .tab.active:after {
+  background: #FFFFFF !important;
+  color: #000000;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000346}}
+.tab {
+  border-top: 1px solid #a5a5a5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000350}}
+.tab {
+  border-top: 1px solid #a5a5a5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000354}}
+.tab:before {
+  border-left: 1px solid #a5a5a5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000358}}
+.tab:after {
+  border-right: 1px solid #a5a5a5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000362}}
+.editor-tab-content {
+  height: 100%;
+  width: 100%;
+  background: none;
+  overflow: hidden;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000369}}
+.editor-content {
+  height: 100%;
+  width: 100%;
+  background: white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000375}}
+.tab-pane {
+  width: 100%;
+  height: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000380}}
+.options-btn {
+  height: 50px;
+  width: 70px;
+  margin-right: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000385}}
+.options-btn .glyphicon {
+  font-size: 25px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000388}}
+.options-btn .text {
+  float: left;
+  margin-top: -3px;
+  width: 100%;
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\0000396}}
+.introjs-helperNumberLayer {
+  line-height: 12px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\00003100}}
+.list-group-item {
+  border: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ramathreya\/Sites\/SSH\%20IDE\/app\/styles\/ide\.scss}line{font-family:\00003103}}
+.list-group-item:first-child, .list-group-item:last-child {
+  border-radius: 0;
+}
+.directory-list{
+    list-style-type: none;
+    padding: 0;
+}
+.directory-item{
+    border-bottom: 1px solid #eeeeee;
+    padding: 5px;
+    font-size: 16px;
+}

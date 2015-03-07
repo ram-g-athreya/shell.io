@@ -1,0 +1,14 @@
+/* line 1, ../../app/styles/app.scss */
+button:focus {
+  outline: 0;
+}
+
+/* line 3, ../../app/styles/app.scss */
+.navbar {
+  border-radius: 0;
+}
+
+/* line 7, ../../app/styles/app.scss */
+.ide-wrapper {
+  width: 99%;
+}

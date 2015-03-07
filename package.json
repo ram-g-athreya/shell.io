@@ -1,0 +1,22 @@
+{
+    "name": "sshide",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node app.js",
+        "postinstall": "./node_modules/.bin/bower install"
+    },
+    "dependencies": {
+        "connect": "latest",
+        "express": "3.4.0",
+        "ejs": "*",
+        "ssh2": "0.3.6",
+        "term.js": "latest",
+        "socket.io": "latest",
+        "session.socket.io": "latest",
+        "indexof": "0.0.1",
+        "bower": "1.3.12",
+        "npm": "1.4.13",
+        "multer": "~0.1.6"
+    }
+}
